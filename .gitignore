@@ -1,0 +1,3 @@
+.terraform/
+*.hcl
+tf_modules_example
